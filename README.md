@@ -1,4 +1,91 @@
+<p align="center">
+	<img alt="logo" src="https://sa-token.cc/logo.png" width="150" height="150">
+</p>
 
-# Sa-Tokens
+<h1 align="center">🚀️️ Sa-Tokens</h1>
 
-Sa-Token �����Ŀ����
+<p align="center">
+  <strong>Sa-Token 生态 · 周边开源项目集合</strong>
+</p>
+
+<p align="center">
+  <a href="https://sa-token.cc/"><img src="https://img.shields.io/badge/在线文档-sa--token.cc-42b983?style=flat-square" alt="在线文档"></a>
+  <a href="https://gitee.com/dromara/sa-token"><img src="https://img.shields.io/badge/Gitee-dromara%2Fsa--token-C71D23?style=flat-square" alt="Gitee"></a>
+  <a href="https://github.com/dromara/Sa-Token"><img src="https://img.shields.io/badge/GitHub-dromara%2FSa--Token-181717?style=flat-square" alt="GitHub"></a>
+  <a href="https://atomgit.com/dromara/sa-token"><img src="https://img.shields.io/badge/AtomGit-dromara%2Fsa--token-da203e?style=flat-square" alt="AtomGit"></a>
+</p>
+
+---
+
+## :sparkles: 关于组织
+
+**Sa-Tokens** 是专为 Sa-Token 打造的周边开源项目集合组织。
+
+我们致力于汇聚、整合与 Sa-Token 相关的优质开源项目，为社区开发者提供丰富的学习资源、实践示例和扩展工具，共同构建繁荣的 Sa-Token 生态。
+
+> :bulb: [Sa-Token](https://sa-token.cc/) 是一个 **开源、免费、一站式** 的 Java 权限认证框架，让鉴权变得简单、优雅！已获得 Gitee GVP、AtomGit G-Star、开放原子基金会快速成长项目、GitHub 18k+ Stars 等多项荣誉。
+
+
+---
+
+## :package: 组织项目一览
+
+| 项目 | 描述 |
+|:---|:---|
+| [Sa-Token-Login-Demos](/sa-tokens/Sa-Token-Login-Demos) | :ticket: 各种登录方式示例集合，一站式学习 Sa-Token 登录认证 |
+| [sa-token-doc-big-file](/sa-tokens/sa-token-doc-big-file) | :file_folder: sa-token-doc 文档中的图片资源文件 |
+| [Awesome-Sa-Token](/sa-tokens/awesome-sa-token) | :star: 集成 Sa-Token 的优秀开源案例收集 |
+| [sa-token-three-plugin](/sa-tokens/sa-token-three-plugin) | :electric_plug: Sa-Token 第三方插件合集 |
+| [sa-token-demo-cross](/sa-tokens/sa-token-demo-cross) | :globe_with_meridians: Sa-Token 处理跨域场景示例 |
+| [auth-framework-function-test](/sa-tokens/auth-framework-function-test) | :test_tube: Java 权限认证框架功能 测试 / 对比 / 迁移 |
+| [sa-tokens](/sa-tokens/sa-tokens) | :clipboard: 本组织介绍与导航 |
+| [Sa-Token-Study](/sa-tokens/Sa-Token-Study) | :book: Sa-Token 涉及技术点学习笔记与实战 |
+
+---
+
+## :handshake: 贡献者指南
+
+我们非常欢迎并感谢每一位社区小伙伴的贡献！无论是 Bug 反馈、功能建议、文档完善，还是代码贡献，都能让 Sa-Token 生态变得更好。
+
+### 如何贡献
+
+1. **:bug: 问题反馈**  
+   发现 Bug 或有功能建议？请在各项目仓库的 Issues 中提交，描述尽量清晰完整。
+
+2. **:memo: 文档改进**  
+   发现文档错误或希望补充内容？欢迎直接提交 Pull Request。
+
+3. **:computer: 代码贡献**  
+   - Fork 目标项目仓库  
+   - 创建特性分支（`git checkout -b feature/your-feature`）  
+   - 提交更改（`git commit -m 'feat: add some feature'`）  
+   - 推送到分支（`git push origin feature/your-feature`）  
+   - 提交 Pull Request，等待 Maintainer 审核  
+
+4. **:star: 案例分享**  
+   您的项目使用了 Sa-Token？欢迎在 [Awesome-Sa-Token](https://gitee.com/sa-tokens/awesome-sa-token) 提交收录！
+
+5. **:electric_plug: 插件贡献**  
+   开发了 Sa-Token 相关插件？欢迎在 [sa-token-three-plugin](https://gitee.com/sa-tokens/sa-token-three-plugin) 中分享！
+
+### 行为准则
+
+请尊重每一位贡献者，保持友好、专业的交流氛围。我们期待与您一起，让 Sa-Token 生态更加繁荣！
+
+---
+
+## :speech_balloon: 加入社区
+
+- :page_facing_up: [需求提交与建议](https://sa-token.cc/doc.html#/more/demand-commit)
+- :busts_in_silhouette: [加入讨论群](https://sa-token.cc/doc.html#/more/join-group)
+- :loudspeaker: [关注我们](https://sa-token.cc/)  
+
+---
+
+<p align="center">
+  <strong>⚡️ 有了 Sa-Token，你所有的权限认证问题，都不再是问题！</strong>
+</p>
+
+<p align="center">
+  <sub>Copyright :copyright: Sa-Tokens · 共建 Sa-Token 生态</sub>
+</p>
