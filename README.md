@@ -32,14 +32,14 @@
 
 | 项目 | 描述 |
 |:---|:---|
-| [Sa-Token-Login-Demos](/sa-tokens/Sa-Token-Login-Demos) | 🎫 各种登录方式示例集合，一站式学习 Sa-Token 登录认证 |
-| [sa-token-doc-big-file](/sa-tokens/sa-token-doc-big-file) | 📁 sa-token-doc 文档中的图片资源文件 |
-| [Awesome-Sa-Token](/sa-tokens/awesome-sa-token) | ⭐ 集成 Sa-Token 的优秀开源案例收集 |
-| [sa-token-three-plugin](/sa-tokens/sa-token-three-plugin) | 🔌 Sa-Token 第三方插件合集 |
-| [sa-token-demo-cross](/sa-tokens/sa-token-demo-cross) | 🌐 Sa-Token 处理跨域场景示例 |
-| [auth-framework-function-test](/sa-tokens/auth-framework-function-test) | 🧪 Java 权限认证框架功能 测试 / 对比 / 迁移 |
-| [sa-tokens](/sa-tokens/sa-tokens) | 📋 本组织介绍与导航 |
-| [Sa-Token-Study](/sa-tokens/Sa-Token-Study) | 📖 Sa-Token 涉及技术点学习笔记与实战 |
+| [Sa-Token-Login-Demos](https://gitee.com/sa-tokens/Sa-Token-Login-Demos) | 🎫 各种登录方式示例集合，一站式学习 Sa-Token 登录认证 |
+| [sa-token-doc-big-file](https://gitee.com/sa-tokens/sa-token-doc-big-file) | 📁 sa-token-doc 文档中的图片资源文件 |
+| [Awesome-Sa-Token](https://gitee.com/sa-tokens/awesome-sa-token) | ⭐ 集成 Sa-Token 的优秀开源案例收集 |
+| [sa-token-three-plugin](https://gitee.com/sa-tokens/sa-token-three-plugin) | 🔌 Sa-Token 第三方插件合集 |
+| [sa-token-demo-cross](https://gitee.com/sa-tokens/sa-token-demo-cross) | 🌐 Sa-Token 处理跨域场景示例 |
+| [auth-framework-function-test](https://gitee.com/sa-tokens/auth-framework-function-test) | 🧪 Java 权限认证框架功能 测试 / 对比 / 迁移 |
+| [sa-tokens](https://gitee.com/sa-tokens/sa-tokens) | 📋 本组织介绍与导航 |
+| [Sa-Token-Study](https://gitee.com/sa-tokens/Sa-Token-Study) | 📖 Sa-Token 涉及技术点学习笔记与实战 |
 
 ---
 
