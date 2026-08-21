@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="logo" src="https://sa-token.cc/logo.png" width="150" height="150">
+	<img alt="logo" src="https://sa-token.com/logo.png" width="150" height="150">
 </p>
 
 <h1 align="center">🚀 Sa-Tokens</h1>
@@ -23,7 +23,7 @@
 
 我们致力于汇聚、整合与 Sa-Token 相关的优质开源项目，为社区开发者提供丰富的学习资源、实践示例和扩展工具，共同构建繁荣的 Sa-Token 生态。
 
-> 💡 [Sa-Token](https://sa-token.cc/) 是一个 **开源、免费、一站式** 的 Java 权限认证框架，让鉴权变得简单、优雅！已获得 Gitee GVP、AtomGit G-Star、开放原子基金会快速成长项目、GitHub 18k+ Stars 等多项荣誉。
+> 💡 [Sa-Token](https://sa-token.com/) 是一个 **开源、免费、一站式** 的 Java 权限认证框架，让鉴权变得简单、优雅！已获得 Gitee GVP、AtomGit G-Star、开放原子基金会快速成长项目、GitHub 18k+ Stars 等多项荣誉。
 
 
 ---
@@ -78,6 +78,6 @@
 
 ## 💬 加入社区
 
-- 📄 [需求提交与建议](https://sa-token.cc/doc.html#/more/demand-commit)
-- 👥 [加入讨论群](https://sa-token.cc/doc.html#/more/join-group)
-- 📢 [关注我们](https://sa-token.cc/)  
+- 📄 [需求提交与建议](https://sa-token.com/doc.html#/more/demand-commit)
+- 👥 [加入讨论群](https://sa-token.com/doc.html#/more/join-group)
+- 📢 [关注我们](https://sa-token.com/)  
