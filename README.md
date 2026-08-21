@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sa-token.cc/"><img src="https://img.shields.io/badge/在线文档-sa--token.cc-42b983?style=flat-square" alt="在线文档"></a>
+  <a href="https://sa-token.com/"><img src="https://img.shields.io/badge/在线文档-sa--token.com-42b983?style=flat-square" alt="在线文档"></a>
   <a href="https://gitee.com/dromara/sa-token"><img src="https://img.shields.io/badge/Gitee-dromara%2Fsa--token-C71D23?style=flat-square" alt="Gitee"></a>
   <a href="https://github.com/dromara/Sa-Token"><img src="https://img.shields.io/badge/GitHub-dromara%2FSa--Token-181717?style=flat-square" alt="GitHub"></a>
   <a href="https://atomgit.com/dromara/sa-token"><img src="https://img.shields.io/badge/AtomGit-dromara%2Fsa--token-da203e?style=flat-square" alt="AtomGit"></a>
